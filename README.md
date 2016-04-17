@@ -2,18 +2,19 @@
 
 Promoting cultural exchange experiences on the dinning table.
 
-## Problem Description
+## Problem Description & Solution
 
-## Solutions
+Refugees are out casted in Europe because of their different background, the terrorist attacks made in their name and the language barrier, the app will help the two cultures meet over a friendly comfortable meal where stories and traditions can be exchanged.
 
 ## Software Components
 
+
 ## Team
 - Alexandru Grigoras (NYU Shangai, China) ag4601@nyu.edu
-- Sara Alarifi (Al Faisal University, UAE) bahisssara@gmail.com
+- Sara Alarifi (Al Faisal University, KSA) bahisssara@gmail.com
+- Khalid AlAwar (Khalifa University, UAE) Khaloodi196@gmail.com
 - Randa Abuali (University of Sharja, UAE) randa.abuali1@gmail.com
 - Ahmed mahmoud abdulhamid (Khalifa University, UAE) Afrotoo1519@gmail.com 
-- Khalid AlAwar (Khalifa University, UAE) Kaloodi196@gmail.com
 
 ## Mentors
 - Razan Qraini (Software Engineer, Experts Turnkey Solutions, Palestine) r.qraini@gmail.com
