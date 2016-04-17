@@ -1,4 +1,4 @@
-# Willcumin
+# Willkumin
 
 Promoting cultural exchange experiences on the dinning table.
 
