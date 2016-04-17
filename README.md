@@ -8,6 +8,16 @@ Refugees are out casted in Europe because of their different background, the ter
 
 ## Software Components
 
+### Front End:
+
+Apache Cordova
+
+Phonon Framework
+
+### Back End :
+
+PHP, MySQL
+
 
 ## Team
 - Alexandru Grigoras (NYU Shangai, China) ag4601@nyu.edu
