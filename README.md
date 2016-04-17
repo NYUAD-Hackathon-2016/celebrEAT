@@ -17,6 +17,6 @@ Promoting cultural exchange experiences on the dinning table.
 
 ## Mentors
 - Razan Qraini (Software Engineer, Experts Turnkey Solutions, Palestine) r.qraini@gmail.com
-- Stephen Lang (UI/UX Designer, Cornell Tech, USA) steplang@gmail.com
+- Stephen Lang (UX/UI Designer, Cornell Tech, USA) steplang@gmail.com
 
 
